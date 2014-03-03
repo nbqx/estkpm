@@ -22,3 +22,7 @@ then
    $ estkpm -c /path/to/package.jsx
 
 output `./build.jsx`
+
+## TODO
+
+- download via HTTP Authentication
