@@ -1,0 +1,23 @@
+{
+  "name": "estkpm",
+  "version": "0.0.0",
+  "description": "adobe estk script downloader (like package manager)",
+  "main": "index.js",
+  "bin": "cmd.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "nbqx",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.34.0",
+    "async": "^0.2.10",
+    "underscore": "^1.6.0",
+    "colors": "^0.6.2",
+    "yargs": "^1.2.1"
+  },
+  "devDependencies": {
+    "should": "^3.1.3",
+    "fakestk": "0.0.4"
+  }
+}

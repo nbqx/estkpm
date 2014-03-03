@@ -1,0 +1,11 @@
+usage: estkpm {OPTIONS}
+
+  extendscript package manger
+  download js or jsx script, generate merged script file
+  
+  OPTIONS:
+
+  -o, --out        OUTPUT FILE
+  -c, --config     package.jsx path
+  -h, --help       Print this help message
+                  
