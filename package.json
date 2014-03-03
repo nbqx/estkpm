@@ -1,6 +1,6 @@
 {
   "name": "estkpm",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "adobe estk script downloader (like package manager)",
   "main": "index.js",
   "bin": "cmd.js",
@@ -8,6 +8,16 @@
     "test": "mocha"
   },
   "author": "nbqx",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nbqx/estkpm.git"
+  },
+  "homepage": "https://github.com/nbqx/estkpm",
+  "keywords": [
+    "adobe",
+    "extendscript",
+    "cui"
+  ],
   "license": "ISC",
   "dependencies": {
     "request": "^2.34.0",
